@@ -3,6 +3,7 @@
 Created on Sun Jul  5 07:42:04 2020
 updated on July 10
 @author: KGaurav
+IIT Kanpur
 Title: Real Time Road Lane Detection
 
 minLineLength = 100
