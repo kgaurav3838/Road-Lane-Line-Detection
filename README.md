@@ -27,4 +27,5 @@ involved in our road lane-line detection are given as follows:
 **Alignment of Image sequence:** Once the lane-line is detected and extrapolated, we can easily find the intercept and slope of the line of the first frame. We can further apply a linear regression technique to find out the average slope and intercept. We are going to relate this slope and intercept with the subsequent frames. Upon successfully estimating the difference in slope and intercept, we can easily align and warp the image sequences. 
     
 **Click to open to View the real-time Road Lane-Line Detection results:-**
-Link:- https://iitk-my.sharepoint.com/:v:/g/personal/kkgaurav_iitk_ac_in/ETyuArlvuB9Kn1Jad-5_-IQBD8C2f1d0E9y6_jXLWGbi1w?e=Bwx7wz
+
+ https://iitk-my.sharepoint.com/:v:/g/personal/kkgaurav_iitk_ac_in/ETyuArlvuB9Kn1Jad-5_-IQBD8C2f1d0E9y6_jXLWGbi1w?e=Bwx7wz
